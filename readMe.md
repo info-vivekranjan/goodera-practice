@@ -7,4 +7,4 @@
 
 ### Screenshots:
 
-![Goodera](./goodraTask.png)
+![Goodera](./gooderaTask.png)
